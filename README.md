@@ -1,8 +1,6 @@
-Hi, my name is James 👋
+Hi, I'm James👋
 
-I am a second year computer science student from the United Kingdom 👨🏻‍💻
-
-Here you will find random personal projects 📝
+I am a third year computer science student. Here you will find personal projects!
 
 Website: [jamesmgt.co.uk](https://www.jamesmgt.co.uk)
 
